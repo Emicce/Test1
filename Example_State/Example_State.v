@@ -17,7 +17,7 @@ parameter S2 = 2'b10;
 
 reg [1:0] FSM_CS;
 reg [1:0] FSM_NS;
-
+//Hello
 always @ (posedge CLK_50M or negedge RST_N)
 begin
     if(!RST_N)
