@@ -1,0 +1,6 @@
+
+State Machine - |Example_State|FSM_CS
+Name FSM_CS.00 FSM_CS.S2 FSM_CS.S1 
+FSM_CS.00 0 0 0 
+FSM_CS.S1 1 0 1 
+FSM_CS.S2 1 1 0 
